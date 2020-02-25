@@ -14,13 +14,6 @@
             font-family: NotoSansHans-Regular;
             src: url('./src/font/NotoSansHans.otf')
         }
-
-        .top_details-title {
-            height: 44px;
-            font-size: 24px;
-            font-weight: 500;
-            color: rgba(7, 2, 55, 1);
-        }
     </style>
 
     <title>vote</title>
@@ -43,23 +36,23 @@
             <!-- <div class="top_details">In an attempt to improve stability of USDx and ensure dollar redeemability, we would like to propose a change to remove DAI
             </div> -->
             <div class="top_details">
-                <div class="top_details-title">Proposal: </div>
                 It is proposed to unlock up to 90% of constituent collaterals and re-supply them
                 into the lending protocol of dForce (or similar designated protocols like Compound, dYdX, and etc) to
                 earn yield. By doing so, USDx holders are entitled to a systematic interest rate by simply depositing
                 USDx into USR (USDx Saving Rate).
-                <a href="https://medium.com/@dforcenet/dforce-governance-poll-no-1-usdx-reserve-adjustment-proposal-f15312a18303"
+                <!-- <a href="https://medium.com/@dforcenet/dforce-governance-poll-no-1-usdx-reserve-adjustment-proposal-f15312a18303"
                     target="_blank">
                     More...
-                </a>
+                </a> -->
+                <a href="javascript();" target="_blank">More...</a>
             </div>
         </div>
     </div>
     <!-- ————————————————————————   华丽的分割线   ———————————————————————— -->
     <div class="main">
         <div class="main_left">
-            <div class="m_title">Vote</div>
-            <!-- <div class="addPlus">(Start from 4 November 2019)</div> -->
+            <div class="m_title">Action Required: Please Vote Here</div>
+            <div class="addPlus">(start from 26 February 2020)</div>
             <div class="m_choosen">
                 <img src="./src/images/vote_is_choosen.svg" alt="" srcset="" class="ichoiceA">
                 <span>Vote A: Yes</span>
@@ -396,7 +389,7 @@
                     $(".my_source").html(myAccount);
                     contractDF.balanceOf.call(myAccount, (err, ret) => {
                         if (ret) {
-                            console.log(ret);
+                            console.log('amount in DF: ', ret.toString());
                             $(".vote_amount").html(formatNumber(ret));
                         }
                     })
