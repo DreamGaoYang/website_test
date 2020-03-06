@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a57aafa0.chunk.css",
-    "main.js": "/static/js/main.eac38993.chunk.js",
-    "main.js.map": "/static/js/main.eac38993.chunk.js.map",
+    "main.css": "/static/css/main.6da37550.chunk.css",
+    "main.js": "/static/js/main.39bde010.chunk.js",
+    "main.js.map": "/static/js/main.39bde010.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58b10c31.js",
     "runtime-main.js.map": "/static/js/runtime-main.58b10c31.js.map",
-    "static/js/2.71f243f9.chunk.js": "/static/js/2.71f243f9.chunk.js",
-    "static/js/2.71f243f9.chunk.js.map": "/static/js/2.71f243f9.chunk.js.map",
+    "static/js/2.c44bd209.chunk.js": "/static/js/2.c44bd209.chunk.js",
+    "static/js/2.c44bd209.chunk.js.map": "/static/js/2.c44bd209.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd13c8ff780890ebd03ca5848f5fac02.js": "/precache-manifest.bd13c8ff780890ebd03ca5848f5fac02.js",
+    "precache-manifest.9df675e4a44490aecb7c696c9fe58b8e.js": "/precache-manifest.9df675e4a44490aecb7c696c9fe58b8e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a57aafa0.chunk.css.map": "/static/css/main.a57aafa0.chunk.css.map",
-    "static/js/2.71f243f9.chunk.js.LICENSE.txt": "/static/js/2.71f243f9.chunk.js.LICENSE.txt",
+    "static/css/main.6da37550.chunk.css.map": "/static/css/main.6da37550.chunk.css.map",
+    "static/js/2.c44bd209.chunk.js.LICENSE.txt": "/static/js/2.c44bd209.chunk.js.LICENSE.txt",
     "static/media/300.svg": "/static/media/300.3c191008.svg",
     "static/media/400.svg": "/static/media/400.30ba23af.svg",
     "static/media/DeFi-Full-Stacks.svg": "/static/media/DeFi-Full-Stacks.397a21df.svg",
@@ -24,6 +24,7 @@
     "static/media/Youtube.svg": "/static/media/Youtube.8ecbbedb.svg",
     "static/media/alpha.svg": "/static/media/alpha.208bb0d2.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.ceadf4de.svg",
+    "static/media/arrow_d.svg": "/static/media/arrow_d.72f00d20.svg",
     "static/media/axonomy.svg": "/static/media/axonomy.f32ad1ed.svg",
     "static/media/bitpie.png": "/static/media/bitpie.dc358c4c.png",
     "static/media/screen-large.scss": "/static/media/bj-me.4d4f01fd.png",
@@ -69,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.58b10c31.js",
-    "static/js/2.71f243f9.chunk.js",
-    "static/css/main.a57aafa0.chunk.css",
-    "static/js/main.eac38993.chunk.js"
+    "static/js/2.c44bd209.chunk.js",
+    "static/css/main.6da37550.chunk.css",
+    "static/js/main.39bde010.chunk.js"
   ]
 }
