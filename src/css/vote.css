@@ -63,7 +63,7 @@ div.top_box .right {
 }
 
 div.top_box .right .to_connect {
-    /* width: 100px;
+    width: 100px;
     text-align: center !important;
     height: 36px;
     line-height: 36px;
@@ -72,7 +72,6 @@ div.top_box .right .to_connect {
     font-size: 16px;
     color: #fff;
     cursor: pointer;
-    color: red; */
 }
 
 div.top .top_title {
