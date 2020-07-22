@@ -72,6 +72,7 @@ div.top_box .right .to_connect {
     font-size: 16px;
     color: #fff;
     cursor: pointer;
+    color: red;
 }
 
 div.top .top_title {
