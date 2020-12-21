@@ -120,6 +120,10 @@ body {
     content: '5.';
 }
 
+.lists-item:nth-child(6):after {
+    content: '6.';
+}
+
 .last-item {
     margin-bottom: 24px;
 }
