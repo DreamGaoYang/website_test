@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.df167eeb.chunk.css",
-    "main.js": "/static/js/main.fa150be7.chunk.js",
+    "main.css": "/static/css/main.1bb30452.chunk.css",
+    "main.js": "/static/js/main.abc0edfc.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c0733aee.js",
-    "static/js/2.efb0729e.chunk.js": "/static/js/2.efb0729e.chunk.js",
+    "static/js/2.2b56b7c6.chunk.js": "/static/js/2.2b56b7c6.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.1b61496dde0554fe79f6693cd438a9b1.js": "/precache-manifest.1b61496dde0554fe79f6693cd438a9b1.js",
+    "precache-manifest.a07cd07235911853a58ef6bdfdb5e0e3.js": "/precache-manifest.a07cd07235911853a58ef6bdfdb5e0e3.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.efb0729e.chunk.js.LICENSE.txt": "/static/js/2.efb0729e.chunk.js.LICENSE.txt",
+    "static/js/2.2b56b7c6.chunk.js.LICENSE.txt": "/static/js/2.2b56b7c6.chunk.js.LICENSE.txt",
     "static/media/Arbitrum.svg": "/static/media/Arbitrum.aaf15147.svg",
     "static/media/BSC.svg": "/static/media/BSC.7ee1d04a.svg",
     "static/media/Community-Discord.svg": "/static/media/Community-Discord.b8fbe508.svg",
@@ -30,7 +30,6 @@
     "static/media/Security-4.svg": "/static/media/Security-4.eae4e249.svg",
     "static/media/Security-5.svg": "/static/media/Security-5.68006984.svg",
     "static/media/Security-6.svg": "/static/media/Security-6.4e1b9b08.svg",
-    "static/media/Security-8.svg": "/static/media/Security-8.768c6467.svg",
     "static/media/Security-9.svg": "/static/media/Security-9.d9bbd304.svg",
     "static/media/Use_Lending.svg": "/static/media/Use_Lending.d5fae574.svg",
     "static/media/Use_Multi.svg": "/static/media/Use_Multi.ce139c2a.svg",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c0733aee.js",
-    "static/js/2.efb0729e.chunk.js",
-    "static/css/main.df167eeb.chunk.css",
-    "static/js/main.fa150be7.chunk.js"
+    "static/js/2.2b56b7c6.chunk.js",
+    "static/css/main.1bb30452.chunk.css",
+    "static/js/main.abc0edfc.chunk.js"
   ]
 }
